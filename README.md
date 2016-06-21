@@ -8,5 +8,5 @@
 
 # Disruptor
 开源的并发框架，一般用作内存消息队列
-- [剖析Disruptor:为什么会这么快?](http://ifeve.com/locks-are-bad/) <font color='red'>该网站有一个系列的专题</font>
+- [并发框架Disruptor](http://ifeve.com/disruptor/) 该网站有一个系列的专题
 - [Disruptor的原理](http://www.360doc.com/content/15/0131/11/11962419_445188581.shtml)
