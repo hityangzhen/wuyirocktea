@@ -10,3 +10,6 @@
 开源的并发框架，一般用作内存消息队列
 - [并发框架Disruptor](http://ifeve.com/disruptor/) 该网站有一个系列的专题
 - [Disruptor的原理](http://www.360doc.com/content/15/0131/11/11962419_445188581.shtml)
+
+# HBase
+- [HBase内存规划](http://hbasefly.com/2016/06/18/hbase-practise-ram/)
