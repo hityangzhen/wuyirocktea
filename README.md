@@ -1,6 +1,8 @@
 # wuyirocktea
 相关技术资源的收集( 持续更新中 )
 
+## 心灵鸡汤
+- [让你少奋斗10年的工作经验](http://ms.csdn.net/geek/82647)
 
 ## Storm
 分布式实时处理框架
@@ -14,5 +16,8 @@
 ## HBase
 - [HBase内存规划](http://hbasefly.com/2016/06/18/hbase-practise-ram/)
 
-## 心灵鸡汤
-- [让你少奋斗10年的工作经验](http://ms.csdn.net/geek/82647)
+## Netty
+- [Netty in Action](http://ifeve.com/netty-in-action/)
+
+## 数据可视化
+- [17款可视化工具](http://www.afenxi.com/post/19680)
