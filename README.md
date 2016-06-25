@@ -36,6 +36,7 @@
 
 ## Spark
 - [Spark知识体系完整解读](http://mt.sohu.com/20160522/n450849016.shtml)
+- [Spark相关知识](http://www.jianshu.com/search?q=spark&page=1&type=collections)
 
 # 程序语言
 ## C++
