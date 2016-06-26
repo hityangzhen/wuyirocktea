@@ -37,7 +37,8 @@
 ## Spark
 - [Spark知识体系完整解读](http://mt.sohu.com/20160522/n450849016.shtml)
 - [Spark相关知识](http://www.jianshu.com/search?q=spark&page=1&type=collections)
-
+- [Spark与Scala学习](http://blog.jasonding.top/2018/01/01/ScalaList/)
+- [Spark RDD详解](http://blog.csdn.net/stark_summer/article/details/50218641)
 # 程序语言
 ## C++
 - [Google C++ 编程规范](http://blog.csdn.net/fengbingchun/article/details/45789447)
