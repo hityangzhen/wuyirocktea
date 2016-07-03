@@ -38,7 +38,13 @@
 - [Spark知识体系完整解读](http://mt.sohu.com/20160522/n450849016.shtml)
 - [Spark相关知识](http://www.jianshu.com/search?q=spark&page=1&type=collections)
 - [Spark与Scala学习](http://blog.jasonding.top/2018/01/01/ScalaList/)
-- [Spark RDD详解](http://blog.csdn.net/stark_summer/article/details/50218641)
+- [Spark的RDD详解](http://blog.csdn.net/stark_summer/article/details/50218641)
+- [Spark的Shuffle实现详解](http://www.360doc.com/content/14/0625/16/2459_389662439.shtml)
+
+## Flink
+- [新一代大数据处理引擎 Apache Flink](http://www.ibm.com/developerworks/cn/opensource/os-cn-apache-flink/index.html)
+- [深入理解Apache Flink核心技术](http://www.tuicool.com/articles/jYNnemQ)
+
 # 程序语言
 ## C++
 - [Google C++ 编程规范](http://blog.csdn.net/fengbingchun/article/details/45789447)
