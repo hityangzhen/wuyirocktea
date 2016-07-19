@@ -9,10 +9,17 @@
 - [分布式存储必读论文](http://geek.csdn.net/news/detail/83314)
 - [去哪儿网大数据流处理系统：如何使用Alluxio（前 Tachyon）实现300倍性能提升](http://geek.csdn.net/news/detail/77491)
 
+## Akka
+- [akka基础](http://my.oschina.net/clopopo/blog/141984)
+- [分布式应用框架Akka快速入门](http://itindex.net/detail/46983-%E5%BA%94%E7%94%A8-%E6%A1%86%E6%9E%B6-akka)
+
 ## Disruptor
 开源的并发框架，一般用作内存消息队列
 - [并发框架Disruptor](http://ifeve.com/disruptor/) 该网站有一个系列的专题
 - [Disruptor的原理](http://www.360doc.com/content/15/0131/11/11962419_445188581.shtml)
+
+## Mesos
+- [Mesos框架对比：Marathon和Aurora](http://www.open-open.com/lib/view/open1431661251044.html)
 
 # 数据库
 ## HBase
